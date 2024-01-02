@@ -25,7 +25,9 @@
     gap: 60px;
     padding-top: 20px;
     padding-bottom: 20px;
-    
+}
+.h2 a:hover{
+    color: #FF4A57;
 }
 .h2 a{
     color: white;
@@ -43,6 +45,9 @@
     border: none;
     color: white;
     padding: 15px 30px;
+}
+.button:hover{
+    color: black;
 }
 
 .img{
@@ -76,7 +81,9 @@
     color: white;
     padding: 15px 30px;
 }
-
+.button2:hover{
+    color: black;
+}
 .Services{
     background-color: #23263A;
     color: white;
@@ -135,7 +142,13 @@
     padding: 20px 50px;
     font-size: 20px;    
 }
+.h14:hover {
+    color: white;
+}
 .social{
     display: flex;
     gap: 30px;
+}
+.social:hover{
+    color: white;
 }
